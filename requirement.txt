@@ -4,3 +4,5 @@ emoji
 tipe option  
 color
 vibrant 
+dark mode 
+video call
